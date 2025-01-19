@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dhruborajdey@gmail.com**
 <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" >
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PCj_ZYHuasniL4ebGbi3haLy-QIwKNTQ/view?usp=sharing](https://drive.google.com/file/d/1PCj_ZYHuasniL4ebGbi3haLy-QIwKNTQ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PCj_ZYHuasniL4ebGbi3haLy-QIwKNTQ/view?usp=sharing]
 
 - ⚡ Fun fact **I am a Dancer too**
 
