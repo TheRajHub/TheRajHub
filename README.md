@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **WebRTC**
 
-- 👨‍💻 All of my projects are available at [https://therajhub.github.io/Rajhub/](https://therajhub.github.io/Rajhub/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://therajhub.github.io/Portfolio/)
 
 - 💬 Ask me about **Web Development, ML, DL,**
 
