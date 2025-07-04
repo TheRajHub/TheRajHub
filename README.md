@@ -1,6 +1,8 @@
-![Header](./github-header-image.png)
+<div align="center">
+  ![Header](./github-header-image.png)
+</div>
 <br>
-<h1><a href="https://drive.google.com/file/d/1duLy98m6fHph88T6-FL0YNeGToAXN5Bm/view?usp=sharing">My Resume</a></h1>
+<h1><a href="https://drive.google.com/file/d/1duLy98m6fHph88T6-FL0YNeGToAXN5Bm/view?usp=sharing">Find my Resume here</a></h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 ## 🏆 Top Repositories
@@ -16,9 +18,9 @@
 
 - 📫 How to reach me **dhruborajdey@gmail.com** , **9062476161**
 <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" >
-- 📄 Know about my experiences Backend Internship in a Startup Jag Education
-
-- ⚡ Fun fact **I am a Dancer too**
+<h4>📄 Know about my experiences</h4>
+-  Backend Developer Internship at a Startup Jag Education
+-  Frontend Developer Internship at Yogi Network
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
