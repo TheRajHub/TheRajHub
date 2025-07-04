@@ -23,8 +23,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhrubaraj-dey-a81152292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhrubaraj-dey-a81152292/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dhruborajdey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dhruborajdey/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhrubaraj-dey-a81152292/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhrubaraj-dey-a81152292/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/https://leetcode.com/u/dhruborajdey/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dhruborajdey/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
