@@ -5,8 +5,8 @@
 
 ## 🏆 Top Repositories
 
-- [📌 Multiuser IDE](https://github.com/TheRajHub/CodeSpace) - A real-time collaborative coding environment with WebRTC and Node.js.
-- [📌 Video Calling Website](https://github.com/TheRajHub/Video-Calling-Website) - A video calling website built with Node.js.
+- [📌 Multiuser IDE](https://github.com/TheRajHub/CodeSpace) - A real-time collaborative coding environment with Socket.IO and Node.js.
+- [📌 Video Calling Website](https://github.com/TheRajHub/Video-Calling-Website) - A video calling website built with WebRTC and Node.js.
 
 <hr>
 
