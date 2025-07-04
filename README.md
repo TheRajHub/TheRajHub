@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development, ML, DL,**
 
-- 📫 How to reach me **dhruborajdey@gmail.com** , **Phone number 9062476161**
+- 📫 How to reach me **dhruborajdey@gmail.com**
 <img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" >
 <h4>📄 Know about my experiences</h4>
 -  Backend Developer Internship at a Startup Jag Education
