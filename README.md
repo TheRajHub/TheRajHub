@@ -1,6 +1,4 @@
-<div align="center">
-  ![Header](./github-header-image.png)
-</div>
+![Header](./github-header-image.png)
 <br>
 <h1><a href="https://drive.google.com/file/d/1duLy98m6fHph88T6-FL0YNeGToAXN5Bm/view?usp=sharing">Find my Resume here</a></h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
