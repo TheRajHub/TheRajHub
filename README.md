@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <br>
 <h1><a href="https://drive.google.com/file/d/1duLy98m6fHph88T6-FL0YNeGToAXN5Bm/view?usp=sharing">Find my Resume here</a></h1>
-<h1 align="center">A passionate FullStack developer from India</h1>
+<h1 align="center">A Passionate FullStack Developer from India</h1>
 
 ## 🏆 Top Repositories
 
